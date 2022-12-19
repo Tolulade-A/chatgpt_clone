@@ -10,7 +10,7 @@ This API uses `text-davinci-003` model from OpenAI.
 3. Install the required libraries `pip install -r requirements.txt` 
 4. run `python chatgpt_clone.py` 
 
-### See Demo: Youtube
+### See Demo: https://youtu.be/qHOrHaX-5wU
 
 ### Demo
 https://user-images.githubusercontent.com/22460844/208539459-5b7d285d-7f05-4d55-805a-22d592e068b5.mp4
